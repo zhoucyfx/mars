@@ -1,7 +1,9 @@
 # main links
 main:
+  - title: "主页"
+    url: /
   - title: "打赏"
-    url: /dashan/  
+    url: /dashan/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
