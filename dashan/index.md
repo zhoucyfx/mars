@@ -6,7 +6,7 @@ excerpt: "技术交流，尝试改变"
 
 只有这个时代，我们这个群体才会有所作为
 
-<figure>
+<figure class="half">
   <img src="{{ '/assets/images/m-code.png' | relative_url }}" alt="code image example">
   <figcaption>扫描二维码，支持他继续创作</figcaption>
 </figure>
